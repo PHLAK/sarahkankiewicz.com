@@ -74,6 +74,42 @@
                         <li>
                             <a href="#" class="clearfix">
 
+                                <span class="nav-icon resources">
+                                    <i class="fa fa-book fa-lg fa-fw"></i>
+                                </span>
+
+                                <span class="nav-text">
+                                    Resources
+                                </span>
+
+                                <span class="nav-caret">
+                                     <i class="fa fa-angle-right fa-fw"></i>
+                                </span>
+
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="#" class="clearfix">
+
+                                <span class="nav-icon forms">
+                                    <i class="fa  fa-file-text fa-lg fa-fw"></i>
+                                </span>
+
+                                <span class="nav-text">
+                                    Forms
+                                </span>
+
+                                <span class="nav-caret">
+                                     <i class="fa fa-angle-right fa-fw"></i>
+                                </span>
+
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="#" class="clearfix">
+
                                 <span class="nav-icon email">
                                     <i class="fa fa-envelope fa-lg fa-fw"></i>
                                 </span>
