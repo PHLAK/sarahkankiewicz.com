@@ -1,0 +1,144 @@
+/* -------------------------------------------------------------------------- */
+/* -----| GENERAL |---------------------------------------------------------- */
+/* -------------------------------------------------------------------------- */
+
+body {
+    background: #FFF url(/img/bg_stripes.png) repeat left center;
+}
+
+.container {
+    max-width: 800px;
+}
+
+.page-wrapper {
+    background-color: #FFF;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, .25);
+    margin: 30px 0;
+    padding: 30px;
+}
+
+
+/* -------------------------------------------------------------------------- */
+/* -----| HEADER |----------------------------------------------------------- */
+/* -------------------------------------------------------------------------- */
+
+.site-title {
+    border-bottom: 2px solid #DCF2DF;
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+}
+
+.title-img {
+    display: inline-block;
+}
+
+.title-text {
+    color: #713F64;
+    display: block;
+    font-family: 'Arvo', serif;
+    font-weight: bold;
+    margin: 20px 0;
+}
+
+
+/* -------------------------------------------------------------------------- */
+/* -----| NAVIGATION |------------------------------------------------------- */
+/* -------------------------------------------------------------------------- */
+
+.site-navigation {
+    margin: 0 0 30px;
+    padding: 0;
+}
+
+.site-navigation > li {
+    list-style: none;
+    margin: 0 0 15px;
+}
+
+.site-navigation > li > a {
+    background-color: #E3E3E3;
+    border-radius: 4px;
+    color: #666;
+    display: block;
+    overflow: hidden;
+    padding: 10px;
+}
+
+.site-navigation > li > a:hover {
+    background-color: #D2D2D2;
+    text-decoration: none;
+}
+
+.site-navigation .nav-icon {
+    background-color: #232323;
+    color: #FFF;
+    display: block;
+    float: left;
+    padding: 10px;
+    margin: -10px 0 -10px -10px;
+    text-align: center;
+}
+
+.site-navigation > li > a .nav-icon.about {
+    background-color: #8fC0DC;
+    text-shadow: 0 1px 1px rgba(0, 0, 0, .25);
+}
+
+.site-navigation > li > a .nav-icon.email {
+    background-color: #EAAE56;
+    text-shadow: 0 1px 1px rgba(0, 0, 0, .25);
+}
+
+.site-navigation > li > a .nav-icon.facebook {
+    background-color: #3B5998;
+    text-shadow: 0 1px 1px rgba(0, 0, 0, .25);
+}
+
+.site-navigation .nav-text {
+    padding: 10px;
+}
+
+.site-navigation .nav-caret {
+    float: right;
+    margin: -10px;
+    padding: 10px;
+}
+
+
+/* -------------------------------------------------------------------------- */
+/* -----| CONTENT |---------------------------------------------------------- */
+/* -------------------------------------------------------------------------- */
+
+.section-title {
+    border-bottom: 1px dotted #DCF2DF;
+    color: #666;
+    font-family: 'Arvo', serif;
+    margin: 0 0 15px;
+    padding-bottom: 2px;
+    text-align: center;
+}
+
+
+/* -------------------------------------------------------------------------- */
+/* -----| FOOTER |----------------------------------------------------------- */
+/* -------------------------------------------------------------------------- */
+
+.site-footer {
+    border-top: 2px solid #DCF2DF;
+    margin-top: 30px;
+    padding-top: 30px;
+    text-align: center;
+}
+
+.title-img {
+    display: inline-block;
+}
+
+.title-text {
+    color: #713F64;
+    display: block;
+    font-family: 'Arvo', serif;
+    font-weight: bold;
+    margin: 20px 0;
+}
