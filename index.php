@@ -108,7 +108,7 @@
                         </li>
 
                         <li>
-                            <a href="#" class="clearfix">
+                            <a href="mailto:SarahKankiewicz@Gmail.com" class="clearfix">
 
                                 <span class="nav-icon email">
                                     <i class="fa fa-envelope fa-lg fa-fw"></i>
@@ -126,7 +126,7 @@
                         </li>
 
                         <li>
-                            <a href="#" class="clearfix">
+                            <a href="https://www.facebook.com/sarah.abbottkankiewicz" class="clearfix">
 
                                 <span class="nav-icon facebook">
                                     <i class="fa fa-facebook fa-lg fa-fw"></i>
