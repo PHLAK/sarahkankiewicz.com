@@ -149,8 +149,15 @@
 
                 <div class="content-wrapper col-md-8">
 
-                    <p>Sarah Kankiewicz is a proud mother of two and ... offers the following
-                    personalized breastfeeding services:</p>
+                    <p>I am a wife to my husband Chris and a working mother of two. I breastfed my
+                    first child until she self weaned due to bottle flow preference until 6 months
+                    old and went on to pump for her until she was a year old. With my son I delved
+                    into research determined to do better for him and found myself in a lactation
+                    education class through ASU. Through this class I became a lactation educator, a
+                    candidate for La Leche League leader in 2014, and a member of CALCA. I'm proud
+                    to say I am still nursing him at 14 months old and pumping milk to donate to
+                    moms who are unable to provide for their babies. I now provide these services...
+                    <strong>to all moms</strong>.</p>
 
                     <hr>
 
