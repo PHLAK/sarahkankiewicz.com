@@ -7,7 +7,7 @@ body {
 }
 
 .container {
-    max-width: 800px;
+    max-width: 960px;
 }
 
 .page-wrapper {
@@ -120,13 +120,30 @@ body {
 /* -----| CONTENT |---------------------------------------------------------- */
 /* -------------------------------------------------------------------------- */
 
-.section-title {
-    border-bottom: 1px dotted #DCF2DF;
+.content-wrapper h2 {
     color: #666;
     font-family: 'Arvo', serif;
     margin: 0 0 15px;
     padding-bottom: 2px;
     text-align: center;
+}
+
+.content-wrapper h3 {
+    font-family: 'Arvo', serif;
+    text-align: center;
+}
+
+.content-wrapper h5 {
+    color: #824F75;
+    font-family: 'Arvo', serif;
+    margin: 30px 0 15px;
+    text-align: center;
+}
+
+.content-wrapper hr {
+    height: 0;
+    border-bottom: 1px solid #DCF2DF;
+    margin: 30px 0;
 }
 
 

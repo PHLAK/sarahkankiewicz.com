@@ -54,14 +54,14 @@
                     <ul class="site-navigation">
 
                         <li>
-                            <a href="#" class="clearfix">
+                            <a href="#services" class="clearfix">
 
                                 <span class="nav-icon about">
                                     <i class="fa fa-star fa-lg fa-fw"></i>
                                 </span>
 
                                 <span class="nav-text">
-                                    About Sarah
+                                    Services
                                 </span>
 
                                 <span class="nav-caret">
@@ -71,8 +71,8 @@
                             </a>
                         </li>
 
-                        <li>
-                            <a href="#" class="clearfix">
+                        <?php /* <li>
+                            <a href="#resources" class="clearfix">
 
                                 <span class="nav-icon resources">
                                     <i class="fa fa-book fa-lg fa-fw"></i>
@@ -90,7 +90,7 @@
                         </li>
 
                         <li>
-                            <a href="#" class="clearfix">
+                            <a href="#forms" class="clearfix">
 
                                 <span class="nav-icon forms">
                                     <i class="fa  fa-file-text fa-lg fa-fw"></i>
@@ -105,7 +105,7 @@
                                 </span>
 
                             </a>
-                        </li>
+                        </li> */ ?>
 
                         <li>
                             <a href="mailto:SarahKankiewicz@Gmail.com" class="clearfix">
@@ -149,24 +149,57 @@
 
                 <div class="content-wrapper col-md-8">
 
-                    <h2 class="section-title">Section Title</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In commodo sodales
-                    dignissim. Ut quis euismod nibh. In in ante nec eros porttitor fringilla ut qin
-                    tellus. Praesent non urna sed orci feugiat volutpat. Etiam dapibus lorem auctor,
-                    sagittis mi ac, dignissim tortor. Suspendisse dolor nibh, malesuada quis magna
-                    vitae, lobortis feugiat eros. In tincidunt quis elit id euismod. Nullam
-                    condimentum sodales tortor, eu molestie enim eleifend at. Sed molestie tortor a
-                    felis egestas pellentesque. Donec ut gravida nisi, non blandit libero. Phasellus
-                    nec nibh nec urna adipiscing egestas. Morbi sed pharetra elit. Cras sodales erat
-                    vitae felis iaculis, ac tempus magna sollicitudin. Morbi condimentum mattis
-                    quam, nec cursus turpis imperdiet ac. Cras non porta augue, nec viverra
-                    tellus.</p>
+                    <p>Sarah Kankiewicz is a proud mother of two and ... offers the following
+                    personalized breastfeeding services:</p>
 
-                    <p>In non vulputate nisi. Quisque interdum sit amet felis at interdum. Quisque a
-                    arcu ullamcorper, pretium purus nec, convallis nisl. Aliquam consequat nisl at
-                    sapien porttitor vestibulum sit amet ut lorem. Fusce convallis scelerisque orci
-                    id feugiat. Mauris suscipit orci ut felis bibendum, quis dictum metus posuere.
-                    Sed sit amet massa quis risus dapibus tristique.</p>
+                    <hr>
+
+                    <h2 id="services" class="section-title">Breastfeeding Services</h2>
+
+                    <h5>In Home And On Site Visits</h5>
+                    <p>In hospital and in home birth breastfeeding initiation and follow up
+                    visits in the comfort of your home or hospital bed, no rushing to get to an
+                    appointment with your newborn!</p>
+
+                    <h5>Prenatal Visit</h5>
+                    <p>Performed before baby is born. Go over what to expect, tailored to your
+                    personal birth plan, cover returning to work/ pumping strategies and fit, talk
+                    about baby wearing.</p>
+
+                    <h5>Initial Visit</h5>
+                    <p>Performed on baby’s birthday. In some cases I can arrive 20- 60 minutes after
+                    birth to initiate breast feeding. Otherwise, I will be by later that day when we
+                    will practice good latch technique and feeding positions that work best for you
+                    and your baby. I am also looking for any potential medical conditions.</p>
+
+                    <h5>Three Day Old Visit</h5>
+                    <p>Preformed in home or at the hospital, depending on your baby’s birth.  We
+                    will re assess latch and go over any questions or concerns. Day 3 is when your
+                    colostrum turns into milk so this visit is very important!</p>
+
+                    <h5>Post Discharge / Follow Up Visit</h5>
+                    <p>Generally at 5-10 days old. If you gave birth via cesarean section this is
+                    when you most likely will be discharged. Here we will again assess any latch
+                    problems and/or medical conditions that may have manifested since you returned
+                    home.</p>
+
+                    <h5>Additional Follow Up Visits</h5>
+                    <p>Performed as needed as mom sees fit. Can be in home or over the phone/text
+                    messages.</p>
+
+                    <h5>Breast Pump Fittings And Loans</h5>
+                    <p>Insures breastfeeding goals when outside of the home. There are so many
+                    brands, sizes, and types of pumps on the market now. Plus, the one the insurance
+                    company gives you may not be the right suction or fit for you. Let’s take a
+                    personal approach to this with a proper fitting and if needed a pump loan. If
+                    the pump works for you great! If not switch it out for something better for
+                    you!</p>
+
+                    <?php /*
+                    <hr>
+
+                    <h2 id="resources" class="section-title">Resources</h2>
+                    */ ?>
 
                 </div>
 
