@@ -32,7 +32,7 @@
                 <div class="row">
 
                     <div class="col-md-4 text-center">
-                        <img src="//placehold.it/120" alt="Sarah Kankiewicz" class="title-img img-circle">
+                        <img src="/img/sarah.jpg" alt="Sarah Kankiewicz" class="title-img img-circle">
                     </div>
 
                     <div class="col-md-8 text-center">
