@@ -153,10 +153,10 @@
                     first child until she self weaned due to bottle flow preference until 6 months
                     old and went on to pump for her until she was a year old. With my son I delved
                     into research determined to do better for him and found myself in a lactation
-                    education class through ASU. Through this class I became a lactation educator, a
-                    candidate for La Leche League leader in 2014, and a member of CALCA. I'm proud
-                    to say I am still nursing him at 14 months old and pumping milk to donate to
-                    moms who are unable to provide for their babies. I now provide these services...
+                    education class through ASU. Through this class I became a lactation educator
+                    and a member of CALCA. I'm proud to say I am still nursing him at 14 months old
+                    and pumping milk to donate to moms who are unable to provide for their babies. I
+                    now provide these services...
                     <strong>to all moms</strong>.</p>
 
                     <hr>
@@ -222,17 +222,17 @@
         </div>
 
     </div>
-    
+
     <script>
-    
+
         (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
         (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
         m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
         })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-        
+
         ga('create', 'UA-43449947-2', 'sarahkankiewicz.com');
         ga('send', 'pageview');
-    
+
     </script>
 
 </body>
